@@ -1,4 +1,4 @@
-# Construindo o seu primeiro jogo de naves
+# Construindo o meu primeiro jogo de naves
 
 
 ![Captura de tela 2022-07-03 171438](https://user-images.githubusercontent.com/94997593/177055878-fa93685e-bab9-4b1a-8d60-6f771a75bce9.jpg)
@@ -11,8 +11,8 @@
 - JAVASCRIPT
 
 
-## 🚀 Bibliotecas
--JQUERY
+## 👩‍💻 Bibliotecas
+- JQUERY
 
 
 ## 💻 Projeto
