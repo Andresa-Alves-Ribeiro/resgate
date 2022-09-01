@@ -18,4 +18,14 @@
 ## 💻 Projeto
 Uma das dificuldades dos desenvolvedores de jogos é encontrar uma plataforma de desenvolvimento compatível com os diversos dispositivos móveis no mercado e também com os diferentes navegadores (browsers). Utilizando o HTML5 juntamente com as folhas de estilo CSS3 e o JavaScript, é possível desenvolver jogos de forma rápida e compatível com diversas plataformas, incluindo dispositivos móveis. No projeto são discutidas as etapas de desenvolvimento de jogos em HTML5, CSS3 e JavaScript do início ao fim, utilizando a didática passo a passo em seu desenvolvimento. Neste projeto, especificamente, os jogos serão publicados de forma que possam ser acessados via browser.
 
-Você pode acessar o projeto através [desse link](https://jogo-de-naves-ruddy.vercel.app/).
+## 🖥️ Como visualizar meu projeto?
+
+Você pode acessar o link abaixo e visualizar o deploy:
+
+https://jogo-de-naves-ruddy.vercel.app/
+
+---
+
+<p align="center">
+  Feito com ♥ by Andresa A Ribeiro :wave:
+</p>
